@@ -18,6 +18,9 @@ Las siguientes son varias de las preguntas que elegí responder:
 * ¿Cuáles son las horas picos de uso de las ECOBICIS?
 * ¿Cómo cambió el uso de las ECOBICIS en los años posteriores a la compra del sistema y a la pandemia COVID-19?
 
+  ![Alt desc](https://github.com/Longchamps27/CABA_ECOBICI/blob/main/Imagenes/CABA%20ECOBICIS-1.png)
+  ![Alt desc](https://github.com/Longchamps27/CABA_ECOBICI/blob/main/Imagenes/CABA%20ECOBICIS-2.png)
+
 # PROBLEMAS ENCONTRADOS
 
 La data no estaba organizada de manera limpia y consistente, lo que dificultaba su analisis. <br />
