@@ -19,7 +19,7 @@ Las siguientes son varias de las preguntas que elegí responder:
 * ¿Cómo cambió el uso de las ECOBICIS en los años posteriores a la compra del sistema y a la pandemia COVID-19?
 
   ![Alt desc](https://github.com/Longchamps27/CABA_ECOBICI/blob/main/Imagenes/CABA%20ECOBICIS-1.png)
-  ![Alt desc](https://github.com/Longchamps27/CABA_ECOBICI/blob/main/Imagenes/CABA%20ECOBICIS-2.png)
+  ![Alt desc](https://github.com/Longchamps27/CABA_ECOBICI/blob/main/Imagenes/CABA%20ECOBICIS-3.png)
 
 # PROBLEMAS ENCONTRADOS
 
