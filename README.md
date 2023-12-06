@@ -23,6 +23,6 @@ Las siguientes son varias de las preguntas que elegí responder:
 
 # PROBLEMAS ENCONTRADOS
 
-La data no estaba organizada de manera limpia y consistente, lo que dificultaba su analisis. <br />
+La data no estaba organizada de manera limpia y consistente, lo que dificultaba su análisis. <br />
 Utilizando Python en Jupyter Notebook, limpié los valores nulos, mal subidos o inconsistentes y fusioné los dataframes
 de cada año en uno que abarcaba desde el año 2019 hasta Julio de 2023.
